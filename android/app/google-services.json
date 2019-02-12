@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "502258135589",
+    "firebase_url": "https://marquis-e2970.firebaseio.com",
+    "project_id": "marquis-e2970",
+    "storage_bucket": "marquis-e2970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502258135589:android:f4c4a1e1fe644f51",
+        "android_client_info": {
+          "package_name": "com.firebase.kazoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502258135589-73j8nobih08pemnb1ddld0bv243vmm6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.kazoku",
+            "certificate_hash": "c6eed15902751dc6477f89bb9960aaf4a8a43a30"
+          }
+        },
+        {
+          "client_id": "502258135589-4vu45jjo2j6mjj2r15bugg7c8i9g0oa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBST28CW9YwgjH576CkBPltc8vkya_p0B8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502258135589-4vu45jjo2j6mjj2r15bugg7c8i9g0oa1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502258135589-kgk62r46hsbii9cv1ia0s35e5j2k5qoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.marquisapp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
